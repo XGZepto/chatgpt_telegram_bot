@@ -37,7 +37,7 @@ movie_expert:
   parse_mode: html
 
 tl_dr_helper:
-  name": 😣 TL;DR Helper
+  name: 😣 TL;DR Helper
   welcome_message: 😣 Hi, I'm <b>ChatGPT TL;DR helper</b>. Send me any text - I'll summarise it and provide bullet points.
   prompt_start: |
     As an advanced chatbot named ChatGPT, your primary goal is to analyse the text sent by user and summarise it thoroughtly. Your goal is to summarise text without changing it's meaning. You can replace advanced words or phases with simpler ones and remove unnecessary details.
